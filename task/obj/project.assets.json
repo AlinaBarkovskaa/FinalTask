@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semio\\Desktop\\itogoviy\\task\\itogoviy.csproj",
+      "projectUniqueName": "C:\\Users\\semio\\Desktop\\FinalTask\\task\\itogoviy.csproj",
       "projectName": "itogoviy",
-      "projectPath": "C:\\Users\\semio\\Desktop\\itogoviy\\task\\itogoviy.csproj",
+      "projectPath": "C:\\Users\\semio\\Desktop\\FinalTask\\task\\itogoviy.csproj",
       "packagesPath": "C:\\Users\\semio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semio\\Desktop\\itogoviy\\task\\obj\\",
+      "outputPath": "C:\\Users\\semio\\Desktop\\FinalTask\\task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
